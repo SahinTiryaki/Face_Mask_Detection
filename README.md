@@ -9,7 +9,7 @@ in this project, following process is adopted <br>
   <li> Detect Face with Opencv Haar Cascade Classifier </li>
   <li> Classifiy Face with Pretrained VGG19 model </li>
   </ul>
-  
+ 
 ## Dataset
 you can reach dataset from this url: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 ![Ekran Görüntüsü 2021-05-26 13-20-24](https://user-images.githubusercontent.com/59391291/119644110-30febb80-be25-11eb-9697-d0c6115ddeb2.png)
@@ -20,4 +20,8 @@ you can reach dataset from this url: https://www.kaggle.com/ashishjangra27/face-
 
 ![Ekran Görüntüsü 2021-05-26 13-24-14](https://user-images.githubusercontent.com/59391291/119644582-acf90380-be25-11eb-9e1e-426dd2ccaf9e.png)
 ![Ekran Görüntüsü 2021-05-26 13-25-30](https://user-images.githubusercontent.com/59391291/119644720-dca80b80-be25-11eb-89c7-8517311ee7d4.png)
+
+## Demo
+
+https://user-images.githubusercontent.com/59391291/150820734-5cdfd81d-9c10-4d18-8ca7-ade1aa18e995.mp4
 
